@@ -25,7 +25,7 @@
     <site>
       <id>site-server</id>
       <name>Test Project Site</name>
-      <url>file:///C:\Users\ushar\OneDrive\Documents\Devops Learning\M3A2</url>
+      <url>file:///C:\Users\ushar\m3a2maven\multiplejobs</url>
     </site>
   </distributionManagement>
 
