@@ -25,7 +25,7 @@
     <site>
       <id>site-server</id>
       <name>Test Project Site</name>
-      <url>file:///tmp/multi-module-site</url>
+      <url>file:///C:\Users\ushar\OneDrive\Documents\Devops Learning\M3A2</url>
     </site>
   </distributionManagement>
 
