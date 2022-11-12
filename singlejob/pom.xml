@@ -20,7 +20,7 @@
     <site>
       <id>site-server</id>
       <name>Test Project Site</name>
-      <url>file:///file:///C:\Users\ushar\OneDrive\Documents\Devops Learning\M3A2_single</url>
+      <url>file:///file:///C:\Users\ushar\m3a2maven\singlejob</url>
     </site>
   </distributionManagement>
 
