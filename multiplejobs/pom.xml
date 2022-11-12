@@ -3,13 +3,13 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.example.maven-samples</groupId>
-  <artifactId>multi-module-parent</artifactId>
+  <groupId>com.assignment.m3a2maven</groupId>
+  <artifactId>multiplejobs-parent</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>Multi Module Project Parent</name>
   <description>Sample multi module Maven project with a working, deployable site.</description>
-  <url>http://www.example.com</url>
+  <url>http://www.assignment.com</url>
 
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
@@ -207,10 +207,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:gabrielf/maven-samples.git</connection>
-    <developerConnection>scm:git:git@github.com:gabrielf/maven-samples.git</developerConnection>
+    <connection>scm:git:git@github.com:Kton0504/mod3a2.git</connection>
+    <developerConnection>scm:git:git@github.com:Kton0504/mod3a2.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/gabrielf/maven-samples</url>
+    <url>https://github.com/Kton0504/mod3a2</url>
   </scm>
 
   <prerequisites>
